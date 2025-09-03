@@ -1,0 +1,5 @@
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=e:\\AAAA-Projects\\A-blenderProject\\esp8266\\stm32工程\\out\\Template\\Project"
+    ]
+}
